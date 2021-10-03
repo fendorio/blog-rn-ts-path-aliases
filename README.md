@@ -1,4 +1,2 @@
 # blog-rn-ts-path-aliases
-Accompanying source code for the blog post at LINK. Provides a working example of Typescript path aliases working with React Native.
-
-This is not currently maintained.
+Provides a working example of Typescript path aliases working with React Native, this stops you having to use relative paths for imports in your TS/JS modules. 
